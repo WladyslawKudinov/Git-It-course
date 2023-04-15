@@ -1,1 +1,1 @@
-Heil Helloworldler!
+Glory to the Hello World!
